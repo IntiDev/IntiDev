@@ -1,15 +1,31 @@
-### Hola, soy IntiDev  🖖
-
 <!--
 **IntiDev/IntiDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Me adentré a este mundo del **Frontend** desde hace 6 años, soy de la hermosa pero caótica CDMX 🏢. Hasta hace poco trabajé en *Wizeline* :computer:, donde me desempeñé como Software Engineer los últimos 3 años y medio. 
-Como Software Engineer, trabajé en el desarrollo de soluciones de todo tipo, como desarollo de features para e-commerce, optimizaciones de páginas, desarrollo y soporte de dashboards de datos en tiempo real, live-blogging, páginas de podcast, desarrollo de design system, entre mucho otros. 
+## 👋 ¡Hola, soy IntiDev! 🖖  
 
-Busco continuamente el aprendizaje y me encanta *JS* :yellow_heart:.
+Soy un apasionado del **Frontend** con más de 6 años de experiencia. Vivo en la hermosa pero caótica Ciudad de México 🏢 y llevo más de 3 años y medio desempeñándome como ingeniero de software.  
 
-Aquí podrás encontrar parte de los proyectos que he desarrollado desde 2017 cuando comencé mi aventura en este mundo del desarrollo, desde pequeños ejercicios y experimentos  :microscope:, hasta proyectos más robustos 🤖. 
+### 🚀 ¿Qué hago?  
+He trabajado en el desarrollo de diversas soluciones, incluyendo:  
+- Desarrollo de nuevas features para e-commerce.  
+- Optimización de rendimiento y mejoras en páginas web.  
+- Creación y mantenimiento de dashboards de datos en tiempo real.  
+- Desarrollo de plataformas de live blogging y páginas de podcast.  
+- Construcción de design systems.  
+- Desarrollo con **Arc XP**, trabajando con **Fusion y React** para la creación de experiencias digitales escalables.  
 
-Si en algo te puedo apoyar me puedes encontrar en [Linkedin](https://www.linkedin.com/in/intidev/) :wink:.
+Siempre estoy buscando aprender más y me encanta *JavaScript* 💛.  
 
-Gracias por darte una vuelta por acá  :smile:. Cambio y fuera  :rocket:
+### 🛠 Tecnologías que uso  
+- **Frontend:** React,TypeScript.  
+- **Backend:** Node.js, Express.  
+- **Plataformas:** Arc XP, Fusion.  
+- **Otros:** Web Performance, Design Systems.  
+
+### 🔍 Proyectos  
+Aquí encontrarás desde pequeños experimentos 🧪 hasta proyectos más robustos 🤖 que he desarrollado desde 2017.  
+
+### 📬 Contáctame  
+Si crees que puedo ayudarte en algo, puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/intidev/) 😉.  
+
+Gracias por pasarte por aquí. ¡Cambio y fuera! 🚀  
