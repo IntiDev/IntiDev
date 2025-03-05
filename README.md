@@ -3,7 +3,7 @@
 
 ## 👋 ¡Hola, soy IntiDev! 🖖  
 
-Soy un apasionado del **Frontend** con más de 6 años de experiencia. Vivo en la hermosa pero caótica Ciudad de México 🏢 y llevo más de 3 años y medio desempeñándome como ingeniero de software.  
+Soy una apasionada del **Frontend**. Vivo en la hermosa pero caótica Ciudad de México 🏢 y llevo más de 3 años y medio desempeñándome como ingeniera de software.  
 
 ### 🚀 ¿Qué hago?  
 He trabajado en el desarrollo de diversas soluciones, incluyendo:  
@@ -23,7 +23,7 @@ Siempre estoy buscando aprender más y me encanta *JavaScript* 💛.
 - **Otros:** Web Performance, Design Systems.  
 
 ### 🔍 Proyectos  
-Aquí encontrarás desde pequeños experimentos 🧪 hasta proyectos más robustos 🤖 que he desarrollado desde 2017.  
+Aquí encontrarás desde pequeños experimentos 🧪 hasta proyectos más robustos 🤖 que he desarrollado desde 2017 cuando comencé mi aventura como developer.  
 
 ### 📬 Contáctame  
 Si crees que puedo ayudarte en algo, puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/intidev/) 😉.  
